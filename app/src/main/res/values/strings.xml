@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vize</string>
+    <string-array name="decimal_conversion_types">
+        <item>Binary</item>
+        <item>Octal</item>
+        <item>Hexadecimal</item>
+    </string-array>
+
+    <string-array name="megabyte_conversion_types">
+        <item>Kilobyte</item>
+        <item>Byte</item>
+        <item>Kibibyte</item>
+        <item>Bit</item>
+    </string-array>
+</resources>
