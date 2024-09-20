@@ -1,7 +1,7 @@
 # Mobil Programlama Vize
 
-## 202013709019 - AHMET EREN ÖZTÜRK
-
+## 202013709019 - EREN ÖZTÜRK 
+- It is a project for the university's mobile programming course, which is a midterm exam.
 
 Welcome to my new mobile app! This mobile application is designed to provide users with a set of handy utilities, offering solutions to various common challenges. Whether you need to convert units, generate random numbers, or send SMS messages quickly, our app has got you covered.
 
